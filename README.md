@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Hello! I am a software developer with a passion for creating machine learning-based applications. My expertise includes ML algorithms such as regression, classification, and clustering. I am enthusiastic about leveraging my skills to develop advanced AI systems.
+
+I enjoy working with technologies like Python, PyTorch, and Pandas, and I am currently exploring the exciting field of generative AI, including LLMs, Retrieval-Augmented Generation (RAG), and intelligent agents.
+
 <!--
 **mniju/mniju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
